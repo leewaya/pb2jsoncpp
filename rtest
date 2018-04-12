@@ -1,0 +1,73 @@
+{
+    "stat":"ok",
+    "result":{"adList":[{"audioAdDsp":"gdfp","bannerAdMap":{
+        "creative":"{
+            "data":[ 
+            { 
+         "id":4611830094,
+         "sourceId":"DFP",
+         "creativeId":"138228559183",
+         "siteId":"115609576",
+         "placementId":"115703776",
+         "advertiserId":"699893656",
+         "campaignId":"2266240041",
+         "assetType":"DISPLAY_6x5",
+         "slots":[ 
+            "NOW_PLAYING"
+         ],
+         "trackingEvents":[ 
+            { 
+               "type":"IMPRESSION",
+               "urls":[
+                  "https://adserver.pandora.com/haymaker/te/impression?externalId=4611830094&creativeId=138228559183&l=qj65y7obhzd5hjjju3nisrd7tos7rcdkvlaecry&correlationId=641488045&assetType=DISPLAY_6X5&slot=NOW_PLAYING"
+               ]
+            },
+            { 
+               "type":"CLICK",
+               "urls":[ 
+                  "https://adserver.pandora.com/haymaker/te/click?externalId=4611830094&creativeId=138228559183&l=qj65y7obhzd5hjjju3nisrd7tos7rcdkvlaecry&correlationId=641488045&assetType=DISPLAY_6X5&slot=NOW_PLAYING"
+               ]
+            }
+         ],
+         "payload":"<body style="margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; background-color: transparent;"><table width="320" border="0" cellspacing="0" cellpadding="0"><tr><td colspan="3"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_01_top.png" name="BorderTop" width="320" height="11" id="BorderTop" /><\/td><\/tr><tr><td width="10"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_02_left.png" name="BorderLeft" width="10" height="250" id="BorderLeft" /><\/td><td><a href="http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss7IbVmQa_ljoqp5VmVkRjBebsFN9xVI9Mk2M_N3VZrs98oPsG1-CcJ9nk0stAWFjXmUtbB_9RIFhm3xNHGFnK9xBuAP4zNIbFj3_kYKi5Doc7K9iShInE4IN3ZvyWb-Tc1o2Ajr1zkcLxrTXKIA6OSR62gkxxEKfqbo_rKpFCCzvCZkLt_CuiXejXbS_VgjR2ucTKcVyLj5wx06XEBXro7cOeo0Tb4VklaEMB-7Ih8MyVfEMYhSPw&sai=AMfl-YSe2BNCaabxSTG9lBlvCEY4pV85MSZIHrojPYpGw-jxEb4-JKSUtMyPgr52iPQJdIDVZ-tg8I4DTsygH0JEs5KRvCOeyoABLl7bboxz&sig=Cg0ArKJSzJPNbvFPkptHEAE&urlfix=1&adurl=https://www.ziprecruiter.com/segmentclick"><img src="http://www.pandora.com/util/mediaserverPublicRedirect.jsp?type=file&file=ads/d/2018/3/8/8/8/1195888/asset_1673932.jpg" width="300" height="250" border="0" /><\/a><\/td><td width="10"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_04_rght.png" name="BorderRight" width="10" height="250" id="BorderRight" /><\/td><\/tr><tr><td colspan="3"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_05_bttm.png" name="BorderBottom" width="320" height="11" id="BorderBottom" /><\/td><\/tr><\/table><\/body>",
+         "contentType":"text/html",
+         "ttl":900,
+         "preRender":true,
+         "headerTitle":"Advertisement",
+       "landingPageTitle":"Advertisement"
+      }
+   ],
+   "meta":{ 
+      "length":1
+   }
+}
+","html":"<body style="margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; background-color: transparent;">
+   <table width="320" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td colspan="3"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_01_top.png" name="BorderTop" width="320" height="11" id="BorderTop" /><\/td>
+         <\/tr>
+      <tr>
+         <td width="10"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_02_left.png" name="BorderLeft" width="10" height="250" id="BorderLeft" /><\/td>
+         <td>
+            <a href="http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss7IbVmQa_ljoqp5VmVkRjBebsFN9xVI9Mk2M_N3VZrs98oPsG1-CcJ9nk0stAWFjXmUtbB_9RIFhm3xNHGFnK9xBuAP4zNIbFj3_kYKi5Doc7K9iShInE4IN3ZvyWb-Tc1o2Ajr1zkcLxrTXKIA6OSR62gkxxEKfqbo_rKpFCCzvCZkLt_CuiXejXbS_VgjR2ucTKcVyLj5wx06XEBXro7cOeo0Tb4VklaEMB-7Ih8MyVfEMYhSPw&sai=AMfl-YSe2BNCaabxSTG9lBlvCEY4pV85MSZIHrojPYpGw-jxEb4-JKSUtMyPgr52iPQJdIDVZ-tg8I4DTsygH0JEs5KRvCOeyoABLl7bboxz&sig=Cg0ArKJSzJPNbvFPkptHEAE&urlfix=1&adurl=https://www.ziprecruiter.com/segmentclick"><img src="http://www.pandora.com/util/mediaserverPublicRedirect.jsp?type=file&file=ads/d/2018/3/8/8/8/1195888/asset_1673932.jpg" width="300" height="250" border="0" /><\/a>
+         <\/td>
+         <td width="10"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_04_rght.png" name="BorderRight" width="10" height="250" id="BorderRight" /><\/td>
+      <\/tr>
+      <tr>
+         <td colspan="3"><img src="https://www.pandora.com/static/ads/mobile_300x250_template/shell300x250_05_bttm.png" name="BorderBottom" width="320" height="11" id="BorderBottom" /><\/td>
+      <\/tr>
+   <\/table>
+   <script> 
+   if (typeof(Pandora) != 'object') {
+    Pandora = {};
+};
+var onPandoraReady = Pandora.onPandoraReady;
+Pandora.onPandoraReady = function() {
+    if (typeof(onPandoraReady) == 'function') {
+        onPandoraReady();
+    }
+    Pandora.setViewportHeight({"height":272});
+        \tPandora.sendEvent({context: '{"adIdentifiers" : {"creativeId" : "138228559183", "lineId" : "4611830094", "advertiserId" : "699893656", "campaignId" : "2266240041", "siteId" : "115609576", "placementId" : "115703776" }}'});
+}
+<\/script>
+<\/body>","clickUrl":"http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss7IbVmQa_ljoqp5VmVkRjBebsFN9xVI9Mk2M_N3VZrs98oPsG1-CcJ9nk0stAWFjXmUtbB_9RIFhm3xNHGFnK9xBuAP4zNIbFj3_kYKi5Doc7K9iShInE4IN3ZvyWb-Tc1o2Ajr1zkcLxrTXKIA6OSR62gkxxEKfqbo_rKpFCCzvCZkLt_CuiXejXbS_VgjR2ucTKcVyLj5wx06XEBXro7cOeo0Tb4VklaEMB-7Ih8MyVfEMYhSPw&sai=AMfl-YSe2BNCaabxSTG9lBlvCEY4pV85MSZIHrojPYpGw-jxEb4-JKSUtMyPgr52iPQJdIDVZ-tg8I4DTsygH0JEs5KRvCOeyoABLl7bboxz&sig=Cg0ArKJSzJPNbvFPkptHEAE&urlfix=1&adurl=https://www.ziprecruiter.com/segmentclick"},"version":3,"allowReplay":false,"clickThroughUrl":"http://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss7IbVmQa_ljoqp5VmVkRjBebsFN9xVI9Mk2M_N3VZrs98oPsG1-CcJ9nk0stAWFjXmUtbB_9RIFhm3xNHGFnK9xBuAP4zNIbFj3_kYKi5Doc7K9iShInE4IN3ZvyWb-Tc1o2Ajr1zkcLxrTXKIA6OSR62gkxxEKfqbo_rKpFCCzvCZkLt_CuiXejXbS_VgjR2ucTKcVyLj5wx06XEBXro7cOeo0Tb4VklaEMB-7Ih8MyVfEMYhSPw&sai=AMfl-YSe2BNCaabxSTG9lBlvCEY4pV85MSZIHrojPYpGw-jxEb4-JKSUtMyPgr52iPQJdIDVZ-tg8I4DTsygH0JEs5KRvCOeyoABLl7bboxz&sig=Cg0ArKJSzJPNbvFPkptHEAE&urlfix=1&adurl=https://www.ziprecruiter.com/segmentclick","audioUrlMap":{"highQuality":{"bitrate":"64","encoding":"aacplus","audioUrl":"http://audio-ch1-t2-2-v4v6.pandora.com/access/6454539455782156301.mp4?version=5&lid=503944257&token=J9EbvoFwexcVtulV9mYk5BWgY1WFHJaZK7VO5HQ15ZXaZbmNzbyyc2stuVTR57nUgN7T8hmhV0O2YZYQi7De6rob26SWZxWgjVpaCM4sbpnM%2F%2F4UgKUc9Vf7XtXdPRUDZBii0nanVVG14miUWIIXxcJET0tcHVBo7DbqiF4hZJxvBEt7bv5cRLbt3GTG3CaxHpWLRcT6hNTndGE%2Bwb%2BTGfvj7%2FXdZtTMVA0BRe7kTamtRbLm1cYBycCG%2BRU9e%2BWhP3Kiqne8A6x5r1iAAYoDsqkB9M8WEqYg","protocol":"http"},"mediumQuality":{"bitrate":"64","encoding":"aacplus","audioUrl":"http://t2-5.p-cdn.us/access/6631314208927306213.mp4?version=5&lid=503944257&token=J9EbvoFwexcVtulV9mYk5BWgY1WFHJaZK7VO5HQ15ZXaZbmNzbyyc2stuVTR57nUgN7T8hmhV0O2YZYQi7De6rob26SWZxWgjVpaCM4sbpnM%2F%2F4UgKUc9Vf7XtXdPRUDZBii0nanVVG14miUWIIXxcJET0tcHVBo7DbqiF4hZJxvBEt7bv5cRLbt3GTG3CaxHpWLRcT6hNTndGE%2Bwb%2BTGfvj7%2FXdZtTMVA0BRe7kTamtRbLm1cYBycCG%2BRU9e%2BWhP3Kiqne8A6x5r1iAAYoDsqkB9M8WEqYg","protocol":"http"},"lowQuality":{"bitrate":"32","encoding":"aacplus","audioUrl":"http://t2-2.p-cdn.us/access/3234273098669929605.mp4?version=5&lid=503944257&token=J9EbvoFwexcVtulV9mYk5BWgY1WFHJaZK7VO5HQ15ZVDMPlUULUrgkrqjrex6SzarTLqeNbxJhle%2FCo%2F3UdykHDgjL3ynx9sZ6g4n9gZZQHmap%2Fwvx%2BhiwkwDyJPbqQY9%2BqbWh%2Fy674GKfscAvnJ4dV%2BUB4JaeQ3yPK%2BLuX%2BJeslhG4B1MYwyOylxhiRHsVfFITm7BODfjyA%2BwpUb%2BrXg6Ur9POJLFXyeJQfGO3BDv1z7hv%2FcDvG8sL5kKocjaSvL7TXpTrZqQqzkwNQc8WDu2%2BXkl%2F0hXve","protocol":"http"}},"audioAdSource":"DFP","adLength":31,"showReplayButton":true,"adTrackingTokens":["ADU-503944257-42-37989-pod/1/1/1-chronos-0-1523298170714"],"trackGain":"0.0","creativeId":"138228559183","trackingEvents":[{"type":"IMPRESSION","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/impression?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef1d4mALfSYb9gIFwqeHKqKs-QrwiDSl3EuYjToOnRqKQC5EnPRQw1QR3Pk_IVH1_WdGXEGzJqRfDXp4ZZKSJCwMx_Fr-x02ffyB4URwJrv5ttp7Pk4Di-OyU7eML4Md30vDfPx9NSStR09pOWABz5rfmhLIY6AkuukIfSl89NdmsIWCPCtkyCQBN0WodVPcvN1UuQsm0WJMYRMMh7yd4vufjSFisiLsd7UMkPDA4fn_jU7JrZ8cpWr1jU3_nDquH25uFJ9TIQrSH&c=1523298170702"]},{"type":"CLICK","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/click?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef8FzZeZ8GCW_sfAlXUXBzlILt1aelvIQX_rFNB92217_VMkxt-uHj09OaV1qtdsjTSB2lPIHMaw12H9sNVlsn1xjU3_nDquH25yuABcaRmDLl6MrWP32vm2ljRUoSylG9KU9GwMhtb5U9rjx2tdnpxpI_bZQyMMv7I3-_OCiMmsAXtwCG_pFqDZG9CSgKa5PmD1p3bmqb0w22k02PyABozcRTza96tYdRAQ-SegO0i9q588IHbArFDzgL2jh9EwDAg&c=1523298170702"]},{"type":"CLOSE","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/close?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3Jg3yipeBiIsfAlXUXBzlILt1aelvIQX_rFNB92217_VMkxt-uHj09OaV1qtdsjTSB2lPIHMaw12H9sNVlsn1xjU3_nDquH25yuABcaRmDLl6MrWP32vm2ljRUoSylG9KU9GwMhtb5U9rjx2tdnpxpI_bZQyMMv7I3-_OCiMmsAXtwCG_pFqDZG9CSgKa5PmD1p3bmqb0w22k02PyABozcRTza96tYdRAQ-SegO0i9q588IHbArFDzgL2jh9EwDAg&c=1523298170702"]},{"type":"ERROR","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/error?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3VbutKNxRCMsfAlXUXBzlILt1aelvIQX_rFNB92217_VMkxt-uHj09OaV1qtdsjTSB2lPIHMaw12H9sNVlsn1xjU3_nDquH25yuABcaRmDLl6MrWP32vm2ljRUoSylG9KU9GwMhtb5U9rjx2tdnpxpI_bZQyMMv7I3-_OCiMmsAXtwCG_pFqDZG9CSgKa5PmD1p3bmqb0w22k02PyABozcRTza96tYdRAQ-SegO0i9q588IHbArFDzgL2jh9EwDAg&c=1523298170702"]},{"type":"MUTE","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/mute?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef6COJS7k5wXmuedGkiTymxZ-SDoievyplDtkC8s-MLUSmWmynqXjAsXTHlQPRwx-NUMkPDA4fn_jL_NFThaLUUsMDLdw4_3CUb27oBQSrAgidsLYepp2yFujCIOuvnplxUeZfRFrU7X51_j6rZOg0vZOQxSqq8sCWr3BjZUbZ5wauBBLiCjB5PDE6fworW2wv5MJHjXr8UbKMXJticV3qUEk8lQAMq_AsLbArNNbJXzSe1kFFWr3Y9tx3L_fZnoH2A&c=1523298170703"]},{"type":"UNMUTE","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/unmute?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3XWYyJrlRshCqO-RBIf_YW-SanEQbHYGoy-WikPvw1msKK3RmdnDo44vVRrHN5lRCTyVAAyr8CwfhkSUakcF-FkYJYKTf4Uizh0KQPGZQqj4O50f7yA9SfyGpV47sJ2tPeH62dNPFELdC2ToF15cVfVOsvQ2jwWURcfbVpF_BmhzHpCalUA2LJbfdMkuUUHGDeykQc5uKuFjQn2tUpRuMzP-tc7Q9eESKMhWOZa2UvLueSKDuGuX3H8qheIZI6sJA&c=1523298170703"]},{"type":"PAUSE","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/pause?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef_oeVNnXhA8WsfAlXUXBzlILt1aelvIQX_rFNB92217_VMkxt-uHj09OaV1qtdsjTSB2lPIHMaw12H9sNVlsn1xjU3_nDquH25yuABcaRmDLl6MrWP32vm2ljRUoSylG9KU9GwMhtb5U9rjx2tdnpxpI_bZQyMMv7I3-_OCiMmsAXtwCG_pFqDZG9CSgKa5PmD1p3bmqb0w22k02PyABozcRTza96tYdRAQ-SegO0i9q588IHbArFDzgL2jh9EwDAg&c=1523298170703"]},{"type":"RESUME","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/resume?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef-PyaxZmRw3zCqO-RBIf_YW-SanEQbHYGoy-WikPvw1msKK3RmdnDo44vVRrHN5lRCTyVAAyr8CwfhkSUakcF-FkYJYKTf4Uizh0KQPGZQqj4O50f7yA9SfyGpV47sJ2tPeH62dNPFELdC2ToF15cVfVOsvQ2jwWURcfbVpF_BmhzHpCalUA2LJbfdMkuUUHGDeykQc5uKuFjQn2tUpRuMzP-tc7Q9eESKMhWOZa2UvLueSKDuGuX3H8qheIZI6sJA&c=1523298170703"]},{"type":"AUDIO_START","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/audio_start?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3QKVNh-8nMQtK5Ji7GGiWVa2Un0vLFcOCvsIH5UXo-hp6ClzYgAO2kRTJAXG_iCtTqUYgGAHiwWVrb1wKb7KZmxkWOzQYDv9kf_m499xx4SRixDyuPYl6Z3SQfphUx8kJce4FlHk5SUrssC9jRI0QWXvXP_fo10OvdQlnzEOJ9zqmf-biSPlD2sJk4gPco3DCcCeDxRaPaFL3hJNJrYahSLwizZQ9j4YyB2lPIHMaw1lAkLmpqhllBkYJYKTf4Ui0EV5vaexupG&c=1523298170703"]},{"type":"AUDIO_FIRST_QUARTILE","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/audio_first_quartile?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3QKVNh-8nMQgxdDpBVBxqONPwc1C9Ah7bnnRpIk8psWfkg6Inr8qZQ7ZAvLPjC1Eplpsp6l4wLF0x5UD0cMfjVDJDwwOH5_4y_zRU4Wi1FLDAy3cOP9wlG9u6AUEqwIInbC2HqadshbowiDrr56ZcVHmX0Ra1O1-df4-q2ToNL2TkMUqqvLAlq9wY2VG2ecGrgQS4goweTwxOn8KK1tsL-TCR416_FGyjFybYnFd6lBJPJUADKvwLC2wKzTWyV80ntZBRVq92Pbcdy_32Z6B9g&c=1523298170703"]},{"type":"AUDIO_MIDPOINT","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/audio_midpoint?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3QKVNh-8nMQVddLQvtFDDL1jk6aFOB9pL5JqcRBsdgajL5aKQ-_DWawordGZ2cOjji9VGsc3mVEJPJUADKvwLB-GRJRqRwX4WRglgpN_hSLOHQpA8ZlCqPg7nR_vID1J_IalXjuwna094frZ008UQt0LZOgXXlxV9U6y9DaPBZRFx9tWkX8GaHMekJqVQDYslt90yS5RQcYN7KRBzm4q4WNCfa1SlG4zM_61ztD14RIoyFY5lrZS8u55IoO4a5fcfyqF4hkjqwk&c=1523298170703"]},{"type":"AUDIO_THIRD_QUARTILE","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/audio_third_quartile?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3QKVNh-8nMQziwY5v1H2H-NPwc1C9Ah7bnnRpIk8psWfkg6Inr8qZQ7ZAvLPjC1Eplpsp6l4wLF0x5UD0cMfjVDJDwwOH5_4y_zRU4Wi1FLDAy3cOP9wlG9u6AUEqwIInbC2HqadshbowiDrr56ZcVHmX0Ra1O1-df4-q2ToNL2TkMUqqvLAlq9wY2VG2ecGrgQS4goweTwxOn8KK1tsL-TCR416_FGyjFybYnFd6lBJPJUADKvwLC2wKzTWyV80ntZBRVq92Pbcdy_32Z6B9g&c=1523298170703"]},{"type":"AUDIO_COMPLETE","urls":["http://adserver.pandora.com/haymaker/api/v1/tracking-event/audio_complete?payload=ML49HaGLmxBcSN7E73iAw37pXiBEvhcpJC5THDR6GDLwU45vM98ef3QKVNh-8nMQVr__2cQRuEgKo75EEh_9hb5JqcRBsdgajL5aKQ-_DWawordGZ2cOjji9VGsc3mVEJPJUADKvwLB-GRJRqRwX4WRglgpN_hSLOHQpA8ZlCqPg7nR_vID1J_IalXjuwna094frZ008UQt0LZOgXXlxV9U6y9DaPBZRFx9tWkX8GaHMekJqVQDYslt90yS5RQcYN7KRBzm4q4WNCfa1SlG4zM_61ztD14RIoyFY5lrZS8u55IoO4a5fcfyqF4hkjqwk&c=1523298170703"]}],"imageUrl":"http://cont-2.p-cdn.us/images/public/devicead/c/8/t/p/daarv21195888zapt8c_500W_500H.jpg","audioAdRequestId":"fe9ace3f-1ddc-41dd-bcb7-76d1ec356e0a","adType":"AUDIO_AD","companyName":"Advertisement","title":"","lineId":"4611830094"}]}}
